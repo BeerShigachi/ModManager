@@ -8,6 +8,6 @@ kivy-deps.gstreamer==0.2.0
 kivy-deps.sdl2==0.2.0
 Kivy-examples==2.0.0rc3
 Kivy-Garden==0.1.4
-Pygments==2.6.1
+Pygments==2.7.4
 requests==2.24.0
 urllib3==1.25.9
